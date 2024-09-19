@@ -1,0 +1,10 @@
+Package: template-repository
+Version: 1.0-1
+Architecture: riscv64
+Maintainer: Tsic404 <liuheng@deepin.org>
+Installed-Size: 8
+Section: unknown
+Priority: optional
+Homepage: https://github.com/deepin-community/template-repository
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
