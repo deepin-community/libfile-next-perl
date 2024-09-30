@@ -1,0 +1,2 @@
+# don't descend into t/swamp
+t/*.t
